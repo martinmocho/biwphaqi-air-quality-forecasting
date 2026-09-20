@@ -1,0 +1,18 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Data files are not redistributed here; see data/README.md
+data/*.csv
+data/*.xlsx
+data/*.zip
+!data/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
